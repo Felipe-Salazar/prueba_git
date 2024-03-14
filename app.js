@@ -1,3 +1,3 @@
-Java Script
+console.log("Programa JS");
 
 //Iniciar programación Java//
